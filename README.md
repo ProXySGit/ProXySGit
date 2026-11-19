@@ -33,29 +33,17 @@ A selection of projects, environments and custom creations. The preview artwork 
   <tr>
     <td width="50%" valign="top">
       <img src="assets/projects/westford-life.png" width="100%" alt="Westford Life preview" />
-      <h3>Westford Life</h3>
-      <p>FiveM serious roleplay project — custom systems, server identity and immersive gameplay environment.</p>
-      <sub>FiveM · Roleplay · Development</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/pacific-state.png" width="100%" alt="Pacific State preview" />
-      <h3>Pacific State</h3>
-      <p>Life RP game concept focused on its visual identity, player experience and custom gameplay systems.</p>
-      <sub>Game Development · UI · Systems</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/projects/arma-reforger.png" width="100%" alt="Arma Reforger Life France preview" />
-      <h3>Arma Reforger Life France</h3>
-      <p>Roleplay environment built around coherent locations, custom assets and immersive world design.</p>
-      <sub>Arma Reforger · Enfusion · Modding</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/3d-custom-assets.png" width="100%" alt="3D and custom assets preview" />
-      <h3>3D & Custom Assets</h3>
-      <p>Custom vehicles, 3D models, textures and visual assets created for game environments.</p>
-      <sub>Blender · 3D · Texturing</sub>
     </td>
   </tr>
 </table>
