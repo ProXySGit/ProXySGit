@@ -1,18 +1,97 @@
+
 <div align="center">
 
-  <!-- BANNER -->
-  <img src="./assets/banner.png" width="100%" alt="Profile Banner"/>
+<img src="./assets/banner.png" width="100%" alt="ProXyS Banner"/>
 
-  <br/>
+# Hi, I'm ProXyS 👋
 
-  <h1>Hi, I'm Matteo 👋</h1>
-  <h3>Full Stack Developer | Game Developer | Software Engineer</h3>
+### Full Stack Developer • Game Developer • Software Engineer
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ProXySGit&label=Profile%20Views&color=ff4b9b&style=flat" alt="Profile views"/>
-    <img src="https://img.shields.io/github/followers/ProXySGit?label=Followers&style=flat&color=ff4b9b" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/ProXySGit?label=Stars&style=flat&color=ff4b9b" alt="Stars"/>
-  </p>
+<img src="https://komarev.com/ghpvc/?username=ProXySGit&label=PROFILE+VIEWS&color=ec4899&style=flat-square" />
+<img src="https://img.shields.io/github/followers/ProXySGit?label=FOLLOWERS&style=flat-square&color=9333ea" />
+<img src="https://img.shields.io/github/stars/ProXySGit?label=STARS&style=flat-square&color=ec4899" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate developer focused on creating advanced systems, immersive gaming experiences and modern applications.
+
+I enjoy transforming ideas into complete projects, from architecture and backend development to user interfaces and optimization.
+
+- 🎮 FiveM & GTA Roleplay Development
+- 🪖 Arma Reforger Modding & Development
+- 🌐 Full Stack Development
+- ⚙️ Backend Architecture & Database Systems
+- 🚀 Game Systems & Custom Frameworks
+- 💡 Always learning and building new things
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=lua,js,ts,cs,cpp,python,html,css" />
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,php" />
+
+### Database & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,visualstudio,blender,docker" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|:---|:---|
+| **Westford Life** | FiveM Serious Roleplay ecosystem |
+| **Pacific State** | Custom Life RP game development |
+| **Arma Reforger Life France** | Roleplay environment and custom systems |
+| **Custom Frameworks** | Backend architecture and gameplay systems |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProXySGit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=ec4899&text_color=ffffff&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProXySGit&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=ffffff"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ProXySGit&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=EC4899"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProXySGit&bg_color=0d1117&color=ffffff&line=ec4899&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -20,109 +99,8 @@
 
 <div align="center">
 
-  <h2>🚀 About Me</h2>
+### 💻 Building ideas into reality.
 
-  <p>
-    I'm a passionate developer focused on building immersive experiences,
-    advanced systems and modern applications.
-    <br/>
-    I enjoy turning ideas into functional projects,
-    exploring new technologies and constantly improving my skills.
-  </p>
-
-  <p>
-    💻 Game Development<br/>
-    🎮 FiveM & GTA Roleplay Development<br/>
-    🛠️ Arma Reforger Modding<br/>
-    🌐 Full Stack Development<br/>
-    ⚡ Always learning something new
-  </p>
-
-</div>
-
----
-
-<h2 align="center">🧰 Technology Stack</h2>
-
-<div align="center">
-
-  <h3>Languages</h3>
-
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,cs,cpp,python" />
-
-  <h3>Frameworks & Backend</h3>
-
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,php" />
-
-  <h3>Database & Tools</h3>
-
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,visualstudio,blender" />
-
-</div>
-
----
-
-<h2 align="center">📊 My GitHub Statistics</h2>
-
-<div align="center">
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ProXySGit&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4b9b&icon_color=ff4b9b&text_color=ffffff&include_all_commits=true&count_private=true"
-  />
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProXySGitB&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4b9b&text_color=ffffff"
-  />
-
-</div>
-
----
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=ProXySGit&theme=radical&hide_border=true&background=0D1117&ring=FF4B9B&fire=FF4B9B&currStreakLabel=FF4B9B"
-    alt="GitHub Streak"
-  />
-
-</div>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ProXySGit&bg_color=0d1117&color=ffffff&line=ff4b9b&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-
-</div>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-  <a href="https://github.com/ProXySGit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <i>"Building ideas into reality, one line of code at a time."</i>
+**ProXyS** © 2026
 
 </div>
